@@ -1,0 +1,17 @@
+#schimg, #schvi, #schbrc,#schqtion, #schblog {
+	float: left;
+}
+
+table{
+	display: block;
+	width: 400px;
+	height: 1050px;
+}
+h2{
+	color: red;
+}
+th{
+	color: blue;
+	font-size: 20px;
+	width: 200px;
+}
