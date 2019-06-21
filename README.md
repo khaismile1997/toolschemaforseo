@@ -1,2 +1,1 @@
-# Demo
-Link: https://schemaforseo.herokuapp.com/
+# Schema for SEO
