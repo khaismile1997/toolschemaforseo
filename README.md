@@ -1,2 +1,2 @@
 # Demo
-tool make schema for seo
+Link: https://schemaforseo.herokuapp.com/
